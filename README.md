@@ -27,8 +27,10 @@ Here are some ideas to get you started:
     <b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b>
 </p>
 
-## 🌠[Coding Time]
+## ⌨️[Coding Time]
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=sololzc&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololzc&theme=calm&langs_count=6&layout=compact" />
 </div>
+
+![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
