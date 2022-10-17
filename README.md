@@ -24,17 +24,15 @@ Here are some ideas to get you started:
 </p> 
 
 <div align="center">
-    <img height="150" src="./Kousaka kirino.JPG" alt="Kousaka kirino is the cutest girl!" />
+    <img height="500" src="./Kousaka kirino.JPG" alt="Kousaka kirino is the cutest girl!" />
 </div>
 
 <p align="center">
     <b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b>
-    <!-- •<b><a href="lizecheng19@gmail.com">Email</a></b> -->
+    <b><a href="lizecheng19@gmail.com">Email</a></b>
 </p>
 
 ## 🌠[Coding Time]
-> the projects I'm working on
-
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=sololzc&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololzc&theme=calm&langs_count=6&layout=compact" />
