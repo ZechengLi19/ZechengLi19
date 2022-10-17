@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">
-    <img height="500" src="./Kousaka kirino.JPG" alt="Kousaka kirino is the cutest girl!" />
+    <img height="500" src="./IMG_1641.JPG"/>
 </div>
 
 <p align="center">
