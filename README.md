@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-    <!-- •<b><a href="lizecheng19@gmail.com">Email</a></b> -->
-    <!-- •<b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b> -->
+    <b><a href="lizecheng19@gmail.com">Email</a></b>
+    •
+    <b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b>
 </p>
 
 ## 🌠[Coding Time]
