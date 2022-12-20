@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 </h1>
 
 
-<p align="center">
+<!-- <p align="center">
     📧<b><a href="lizecheng19@gmail.com">Email</a></b>
     •
     🤒<b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b>
-</p>
+</p> -->
 
 <div align="center">
     <img height="500" src="./IMG_1641.JPG"/>
