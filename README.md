@@ -12,27 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm a Master's student at the University of Science and Technology of China. My research interests focus on computer vision, multimodal understanding, and sign language recognition/translation.😇 
 
-<h1 align="center">
-  Hey, I'm LZC!
-</h1>
-
-
-<!-- <p align="center">
-    📧<b><a href="lizecheng19@gmail.com">Email</a></b>
-    •
-    🤒<b><a href="https://github.com/pytorch/pytorch">PyTorch</a></b>
-</p> -->
-
-<div align="center">
-    <img height="500" src="./IMG_1641.JPG"/>
-</div>
-
-
-## ⌨️[Coding Time]
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=sololzc&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sololzc&theme=calm&langs_count=6&layout=compact" />
-</div>
-
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+### I am currently seeking internship and research collaboration opportunities. ✈
+![Zecheng Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZechengLi19&hide=prs,contribs&theme=calm&show_icons=true) 
