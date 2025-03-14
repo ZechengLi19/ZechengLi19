@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm a Master's student at the University of Science and Technology of China. My research interests focus on computer vision, multimodal understanding, and sign language recognition/translation. 😇 
 
-### I am currently seeking internship and research collaboration opportunities. ✈
+### I am currently seeking internship and research collaboration opportunities. 🤠
 ![Zecheng Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZechengLi19&hide=prs,contribs&theme=calm&show_icons=true) 
